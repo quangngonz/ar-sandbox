@@ -38,3 +38,5 @@ sysinfo.txt
 
 # macOS specific
 .DS_Store
+/.vscode
+/.vscode/
